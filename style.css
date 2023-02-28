@@ -1,0 +1,31 @@
+nav{
+font-size:30px;
+color:crimson;
+background-color:cyan;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+    background-color: #e8cfd1;
+    display:block;
+    margin-top: 2px;
+
+}
+.friends{
+    color:blue;
+}
+.college{
+    color:navy;
+}
+.partner{
+    color:hotpink
+}
+.crush{
+    color:red
+}
+.submit{
+    margin-left: 130px;
+    margin-top: 10px;
+}
